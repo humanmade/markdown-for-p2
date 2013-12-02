@@ -33,6 +33,10 @@ Upload the Markdown for P2 plugin to your blog or install it automatically via t
 
 == Changelog ==
 
+= 0.2 =
+* Use the new php-markdown 1.4 which adds support for several new markdown features including github style backtick fenced code blocks
+* Re-enables the built in list functionality available in P2
+
 = 0.1 =
 * Pulled together the first functioning plugin. It could be fixed up bit I'm sure, but this works for a first version.
 * Released July 5, 2012
